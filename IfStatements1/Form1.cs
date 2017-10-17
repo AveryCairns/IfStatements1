@@ -17,6 +17,7 @@ namespace IfStatements1
             InitializeComponent();
         }
 
+        // Calculations
         private void addButton_Click(object sender, EventArgs e)
         {
             int num = Convert.ToInt16(intInput.Text);
